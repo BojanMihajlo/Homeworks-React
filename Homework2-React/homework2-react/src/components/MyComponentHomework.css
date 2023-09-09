@@ -1,0 +1,25 @@
+
+
+.componenthomework {
+    width: 50%;
+    background-color: aquamarine;
+    border-radius: 20px;
+    margin-left: 20%;
+    padding: 3%;
+}
+.componenthomework h1 {
+    color: green;
+    font-size: 24px;
+}
+.componenthomework button{
+    background-color: blue;
+    color: aquamarine;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+
+
+     
+
+
