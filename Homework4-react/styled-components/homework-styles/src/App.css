@@ -1,0 +1,50 @@
+
+
+.App {
+  background-color: rgb(241, 239, 235);
+  margin: 0;
+}
+
+.App h1 {
+  font-family: 'Pacifico', cursive;
+  font-size: 62px;
+  text-align: center;
+  padding-top: 4%;
+ 
+}
+.styled-components {
+ display: flex;
+}
+
+.second-com {
+  width: 60%;
+  
+
+}
+.second-com h2 {
+  font-size: 30px;
+  font-family: 'Pacifico', cursive;
+  margin-top: 10%
+}
+.second-com p {
+  font-size: 25px;
+  font-family: 'Pacifico', cursive;
+}
+
+@media (max-width: 425px) {
+
+  .App h1 {
+    font-size: 52px;
+    color:rgb(6, 6, 105)
+  }
+  .styled-components{
+    display: block;
+  }
+  .second-com {
+    width: 90%;
+    margin-left: 4%;
+  }
+  
+  
+}
+
